@@ -1,2 +1,0 @@
-new sample text
-this is a python program
