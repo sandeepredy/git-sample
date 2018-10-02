@@ -1,2 +1,4 @@
 sam[ple git hub 
 first line
+second line entered
+
